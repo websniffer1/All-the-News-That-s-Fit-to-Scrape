@@ -35,7 +35,7 @@ Deployed on: `Heroku`
 
 ## Installation
 
-`All the News That's Fit to Scrape` can be downloaded by cloning this repository [`https://github.com/roverkim/Be-My-Friend-Finder.git`](https://github.com/roverkim/Be-My-Friend-Finder.git)
+`All the News That's Fit to Scrape` can be downloaded by cloning this repository [`https://github.com/websniffer1/All-the-News-That-s-Fit-to-Scrape.git`](https://github.com/websniffer1/All-the-News-That-s-Fit-to-Scrape.git)
 A Live Example can be Found Here
 [`https://calm-hamlet-55340.herokuapp.com/`](https://calm-hamlet-55340.herokuapp.com/)
 
